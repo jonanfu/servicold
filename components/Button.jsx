@@ -25,7 +25,9 @@ const Button = () => {
                 hover:drop-shadow-2xl 
                 hover:animate-bounce 
                 duration-300" 
-            target="_blank"> 
+            target="_blank"
+            rel="noopener"
+            > 
             <FaWhatsapp />
         </a>
         <a href="https://wa.me/5211234567890?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" 
@@ -47,7 +49,8 @@ const Button = () => {
                 hover:drop-shadow-2xl 
                 hover:animate-bounce 
                 duration-300" 
-            target="_blank"> 
+            target="_blank"
+            rel="noopener"> 
             <FaTelegram />
         </a>
       
