@@ -26,7 +26,7 @@ const Button = () => {
                 hover:animate-bounce 
                 duration-300" 
             target="_blank"
-            rel="noopener"
+            rel="noreferrer"
             > 
             <FaWhatsapp />
         </a>
@@ -50,7 +50,7 @@ const Button = () => {
                 hover:animate-bounce 
                 duration-300" 
             target="_blank"
-            rel="noopener"> 
+            rel="noreferrer"> 
             <FaTelegram />
         </a>
       
