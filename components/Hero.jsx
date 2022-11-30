@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="container mt-14 flex flex-col-reverse items-center gap-12 lg:mt-28 lg:flex-row">
         <div className="flex flex-1 flex-col items-center lg:items-start">
           <h2 className="mb-2 text-center text-3xl text-bookmarkBlue md:text-4xl lg:text-left lg:text-5xl">
-            Reparación de en linea blanca
+            Reparación de línea blanca
           </h2>
           <p className="mb-1 text-center text-lg text-bookmarkGrey lg:text-left">
             Tecnicos certificados y calificados en linea blanca
