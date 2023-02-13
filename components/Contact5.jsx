@@ -96,7 +96,7 @@ const Contact5 = () => {
               andi_david95@hotmail.com
             </a>
             {/* ::Address */}
-            <p className="text-sm text-gray-500 leading-6">18 Avenue des Champs-Élysées, <br /> 75008 Paris <br /> France</p>
+            {/*<p className="text-sm text-gray-500 leading-6">18 Avenue des Champs-Élysées, <br /> 75008 Paris <br /> France</p>*/}
             {/* ::Socials */}
             <div className="flex items-center">
               {/* :Twitter */}
